@@ -1,0 +1,23 @@
+.material-header {
+    display: flex;
+    align-items: center;
+}
+
+.material-header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.material-header .logo {
+    max-height: 36px;
+    max-width: 100%;
+}
+
+.material-header .title-group {
+    padding: 12px;
+}
+
+.material-header .title-group i {
+    padding-right: 4px;
+}
