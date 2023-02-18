@@ -1,0 +1,19 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "caneta azul",
+            "price": 6.54
+        },
+        {
+            "id": 2,
+            "name": "borracha",
+            "price": 5.41
+        },
+        {
+            "id": 3,
+            "name": "papel",
+            "price": 3.31
+        }
+    ]
+}
