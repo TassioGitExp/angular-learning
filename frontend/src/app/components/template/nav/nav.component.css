@@ -1,0 +1,25 @@
+/* * { border: 1px solid red; } */
+
+.sidenav {
+    display: flex;
+    justify-content: flex-start;
+    background-color: whitesmoke;
+    width: 200px;
+}
+
+.sidenav a {
+    color: #212121;
+}
+
+.sidenav i {
+    padding-right: 12px;
+}
+
+.nav-list{
+    padding-top: 0;
+}
+
+.content {
+    padding: 14px;
+    background-color: white;
+}
