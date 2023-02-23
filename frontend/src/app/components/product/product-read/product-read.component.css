@@ -1,0 +1,17 @@
+.edit {
+    margin-right: 12px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+.mat-icon {
+    padding-bottom: 2px;
+    vertical-align: middle;
+}

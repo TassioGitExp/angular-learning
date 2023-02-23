@@ -14,6 +14,11 @@
       "id": 3,
       "name": "papel",
       "price": 3.31
+    },
+    {
+      "name": "cellphone",
+      "price": "1500.50",
+      "id": 4
     }
   ]
 }
