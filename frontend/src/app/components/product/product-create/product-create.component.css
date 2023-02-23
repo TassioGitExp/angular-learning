@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 12px;
+    margin-right: 8px;
+}
+
+.productFormCard .productFormCardTitle {
+    padding-bottom: 16px;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1;
+}
